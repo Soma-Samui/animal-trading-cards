@@ -1,0 +1,22 @@
+/* Define the style for the Card Box */
+
+.card_box {
+            border: 0.1px ridge rgb(192, 191, 191);
+            padding: 0.5em;
+            width: 300px;
+            box-shadow: 5px 5px 5px grey;
+          }
+
+/* Define the style for the Description Box */
+
+.description_box {
+                    border: 0.1px ridge rgb(192, 191, 191);
+                    padding: 0.5em;
+                 }
+		
+.image_size { width:300px; height: 200px; margin: ;}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
